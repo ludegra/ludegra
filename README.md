@@ -10,9 +10,6 @@ A hobbyist developer from Sweden, who has a tenedency to bite off a bit more tha
 
 I like learning new stuff and am most likely in this moment doing just that.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ludegra&count_private=true&show_icons=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludegra&layout=compact&langs_count=8)
-
 ## Quick facts
 
 ### Langs I know
@@ -26,3 +23,8 @@ I like learning new stuff and am most likely in this moment doing just that.
 
 - Rust
 - OpenGL
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ludegra&count_private=true&show_icons=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludegra&layout=compact&langs_count=8)
