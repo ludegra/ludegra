@@ -1,16 +1,28 @@
-### Hi there 👋
+# About me
 
-<!--
-**ludegra/ludegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+```rs
+fn main() {
+  println!("Hello World")
+}
+```
 
-A hobbyist developer from Sweden, who has a tnedency to bite off a bit more than he can chew.
+A hobbyist developer from Sweden, who has a tenedency to bite off a bit more than he can chew.
 
 I like learning new stuff and am most likely in this moment doing just that.
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ludegra&count_private=true&show_icons=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludegra&layout=compact&langs_count=8" />
-</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=ludegra&count_private=true&show_icons=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludegra&layout=compact&langs_count=8)
+***
+## Quick facts
+
+### Langs I know
+
+- JS
+- TS
+- C#
+- Rust
+
+### Currently learning 
+
+- Rust
+- OpenGL
