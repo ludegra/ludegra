@@ -2,7 +2,10 @@
 
 ```rs
 fn main() {
-  println!("Hello World");
+  let ludegra = World::get_user_by_nickname("ludegra").unwrap();
+  let the_best = World::get_user_by_merit("the_best").unwrap();
+
+  assert_eq!(ludegra, the_best);
 }
 ```
 
@@ -18,7 +21,7 @@ I like learning new stuff and am most likely in this moment doing just that.
 - TS
 - C#
 - Rust
-
+  
 ### Currently learning 
 
 - Rust
