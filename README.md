@@ -21,6 +21,7 @@ I like learning new stuff and am most likely in this moment doing just that.
 - TS
 - C#
 - Rust
+- Power Shell
   
 ### Currently learning 
 
