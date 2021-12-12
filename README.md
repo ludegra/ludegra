@@ -17,8 +17,7 @@ I like learning new stuff and am most likely in this moment doing just that.
 
 ### Langs I know
 
-- JS
-- TS
+- JavaScript/TypeScript
 - C#
 - Rust
 - PowerShell
