@@ -10,6 +10,7 @@ fn main() {
 ```
 
 A hobbyist developer from Sweden, who has a tenedency to bite off a bit more than he can chew.
+Although way to often I don't finish projects.
 
 I like learning new stuff and am most likely in this moment doing just that.
 
