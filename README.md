@@ -16,17 +16,20 @@ I like learning new stuff and am most likely in this moment doing just that.
 
 ## Quick facts
 
-### Langs I know
+### Languages I know
 
 - JavaScript/TypeScript
+- HTML
+- CSS
 - C#
-- Rust
 - PowerShell
+- Rust
   
 ### Currently learning 
 
-- Rust
-- OpenGL
+- Flutter
+- Dart
+- C/C++
 
 ## GitHub Stats
 
